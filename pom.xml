@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>11</java.version>
-		<release>11</release>
+<!--		<release>11</release>-->
 	</properties>
 
 	<dependencies>
